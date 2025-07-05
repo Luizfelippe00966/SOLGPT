@@ -1,0 +1,24 @@
+{
+  "name": "Github-Contribution-Bot",
+  "version": "1.0.0",
+  "description": "Manipulate your GitHub contribution graph with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/utsanjan/github-contribution-bot)"
+  },
+  "author": "Utsanjan Maity",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.16.0",
+    "webpack-dev-server": "^4.10.0"
+  },
+  "devDependencies": {}
+}
